@@ -3,8 +3,8 @@ Harvard is a python package that contains all of Ulif Systems python APIS and ap
 
 # Libraries
 * TwoFALib - `import twofalib`
-* ulifutils - Hosts config file for ulif apis   
-More libraries coming soon   
+* UlifUtils - Hosts config file for ulif apis   
+* DiscordRPC = `import discordrpc`
 
 # Applications
 * UManage - Project Manager and Live code collab

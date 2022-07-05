@@ -7,13 +7,13 @@ setuptools.setup(
     name="Harvard Lib",
     version="1.0.0",
     author="Ulif Systems",
-    author_email="donnierupp6@gmail.com",
-    description="A python library that contains multiple other libraries created by Ulif Systems",
+    author_email="support@ulifsystems.tech",
+    description="A Python library that contains multiple other libraries created by Ulif Systems",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://git.10302170.tech/",
+    url="http://54.234.189.76",
     project_urls={
-        "DiscordRich Website": "https://ulifsystems.neocities.org/rpc",
+        "DiscordRPC Website": "http://54.234.189.76",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
